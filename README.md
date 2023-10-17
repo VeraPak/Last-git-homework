@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td style="background-color: grey">Алгоритмы и структуры данных</td>
-    <td style="background-color: grey"><a href="https://github.com/VeraPak/Portfolio/tree/main/Algoritms" target="_blank">Примеры кода</a></td>
+    <td style="background-color: grey"><a href="https://github.com/VeraPak/Last-git-homework/tree/main/Algoritms" target="_blank">Примеры кода</a></td>
   </tr>
   <tr>
     <td>Шаблоны проектирования</td>
@@ -49,6 +49,6 @@
   </tr>
   <tr>
     <td style="background-color: grey">Stay cute</td>
-    <td style="background-color: grey"><a href="https://img.freepik.com/free-photo/cute-cat-relaxing-indoors_23-2150692910.jpg" target="_blank">Picture</a></td>
+    <td style="background-color: grey"><a href="https://img.freepik.com/free-photo/cute-cat-relaxing-indoors_23-2150692910.jpg" target="_blank">Surprise</a></td>
   </tr>
 </table>
